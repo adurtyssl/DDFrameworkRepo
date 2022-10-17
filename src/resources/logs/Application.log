@@ -1,0 +1,5 @@
+09-05-2022 18:50:01 TestBase.java DEBUG [main] devpinoyLogger 39 - Config file Loaded***********
+09-05-2022 18:50:01 TestBase.java DEBUG [main] devpinoyLogger 53 - Object Repository file Loaded***********
+09-05-2022 18:50:05 TestBase.java INFO  [main] devpinoyLogger 68 - Firefox  Launched ***********
+09-05-2022 18:50:08 LoginTest.java INFO  [main] devpinoyLogger 14 - Inside LoginTest   ***********
+09-05-2022 18:50:09 LoginTest.java INFO  [main] devpinoyLogger 16 - Login test success ***********
